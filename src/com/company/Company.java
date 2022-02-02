@@ -6,9 +6,9 @@ public class Company {
         rectengle.a =13;
         rectengle.b =14;
         rectengle.c =15;
-        rectengle.uchburchtukMethod();
-
-        //System.out.println(rectengle.uchburchtukMethod(13,14,15));
-
+        System.out.println("Here we are used  Void Method");
+        rectengle.areaMethod();
+        System.out.println("Here we are used  Return Method");
+        System.out.println(rectengle.areaReturnMethod(12,15,16));
     }
 }

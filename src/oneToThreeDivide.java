@@ -3,7 +3,7 @@ public class oneToThreeDivide {
         int threeSum = 0;
         int fourSum = 0;
         int fiveSum = 0;
-        for (int i = 0; i<=300; i++){
+        for (int i = 1; i<=300; i++){
             if (i % 3 == 0){
                 threeSum = threeSum +i;
                 //System.out.println(i);
