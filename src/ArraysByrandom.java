@@ -8,8 +8,6 @@ public class ArraysByrandom {
         int[] arrays = new int[10];
         for (int i=0; i<arrays.length; i++) {
             arrays[i] = randNumber.nextInt(100); //диапазон рандомных чисел
-            //System.out.print("without" + arrays[i]);
-
             if (arrays[i]>50)
             System.out.println(arrays[i]);
         }
