@@ -1,3 +1,5 @@
+package ReversAndFindSummOfElem;
+
 import java.util.Scanner;
 
 public class ReversAndFindSummNum {
