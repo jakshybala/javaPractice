@@ -1,4 +1,4 @@
-package Animal;
+package Animals;
 
 public class Parrot {
     private String pName;
