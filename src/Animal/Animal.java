@@ -2,7 +2,7 @@ package Animal;
 
 import java.util.Arrays;
 
-public class Animal {
+public abstract class Animal {
     public static void allAnimalMethods() {
         Animal[] animals = {new Eagle(), new Shark(), new Turtle()};
         for (Animal countAnimal : animals) {
